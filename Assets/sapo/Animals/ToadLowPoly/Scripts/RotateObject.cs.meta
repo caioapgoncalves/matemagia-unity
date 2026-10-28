@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0f7b26efa759ec24c930dda80b97ff8f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 264515
+  packageName: Toad Low Poly.
+  packageVersion: 1.0
+  assetPath: Assets/RedCambala/Animals/ToadLowPoly/Scripts/RotateObject.cs
+  uploadId: 619394

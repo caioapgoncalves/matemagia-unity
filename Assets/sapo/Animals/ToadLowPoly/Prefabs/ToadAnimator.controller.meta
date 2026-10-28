@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4057d31ce3d918044bc13b2bbcfce93b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 9100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 264515
+  packageName: Toad Low Poly.
+  packageVersion: 1.0
+  assetPath: Assets/RedCambala/Animals/ToadLowPoly/Prefabs/ToadAnimator.controller
+  uploadId: 619394

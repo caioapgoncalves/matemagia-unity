@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 5edb83651039aba44be2880e1056fb73
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 264515
+  packageName: Toad Low Poly.
+  packageVersion: 1.0
+  assetPath: Assets/RedCambala/Animals/ToadLowPoly/Demo/Scripts/CAMERACON.cs
+  uploadId: 619394

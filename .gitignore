@@ -1,0 +1,67 @@
+# ── Unity: pastas geradas automaticamente ──
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Pasta de recuperacao automatica da Unity
+/[Aa]ssets/_Recovery/
+/[Aa]ssets/_Recovery.meta
+
+# Asset Store Tools
+/[Aa]ssets/AssetStoreTools*
+
+# ── Builds (WebGL, Windows etc.) ──
+*.apk
+*.aab
+*.unitypackage
+*.app
+/WebGL/
+/[Bb]uild*/
+
+# ── Visual Studio / VS Code / Rider ──
+.vs/
+.vscode/
+.idea/
+.consulo/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+ExportedObj/
+
+# Arquivos .meta de pdb/mdb
+*.pdb.meta
+*.mdb.meta
+
+# Crash reports
+sysinfo.txt
+
+# Gerados pelo Burst / IL2CPP
+/[Aa]ssets/[Ss]treamingAssets/aa.meta
+/[Aa]ssets/[Ss]treamingAssets/aa/*
+*_BurstDebugInformation_DoNotShip/
+
+# Gerado pelo Gradle (Android)
+.gradle/
+crashlytics-build.properties
+
+# ── Sistema operacional ──
+.DS_Store
+Thumbs.db
+Desktop.ini
