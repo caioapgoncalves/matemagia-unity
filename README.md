@@ -6,6 +6,18 @@ Projeto desenvolvido como Trabalho de Conclusão de Curso de Sistemas de Informa
 
 Disponível em **português, inglês e espanhol**.
 
+## 🎮 Jogar agora
+
+**[capg.itch.io/matemagia](https://capg.itch.io/matemagia)**
+
+O jogo roda direto no navegador, sem instalar nada:
+
+1. Abra o link acima e clique em **Run game**.
+2. Aguarde o carregamento. Na primeira vez leva de 1 a 2 minutos.
+3. Escolha o idioma nos botões **PT / EN / ES** do menu e comece pelo **Modo História** ou pelo **Modo Fases**.
+
+Recomendado: computador com navegador atualizado (Chrome, Edge ou Firefox), em tela cheia (botão no canto inferior direito da janela do jogo). Não é compatível com celular.
+
 ---
 
 ## Como funciona
@@ -85,6 +97,9 @@ Assets/
 - **Igualar Fases:** deixa as 4 fases com 3 rodadas, números até 5 e figuras de apoio.
 - **Configurar Idiomas:** aplica as traduções no menu, nos nomes das fases e no painel de pausa.
 - **Otimizar Texturas:** reduz o tamanho e comprime as texturas do projeto.
+- **Comprimir Modelos 3D:** liga a Mesh Compression nos modelos usados nas fases.
+- **Build WebGL (itch.io):** gera o build em `Builds/itch` e confere os limites do itch.io (500 MB no total, 200 MB por arquivo).
+- **Relatorio do Ultimo Build:** lista os assets que mais pesam no último build.
 
 ## Idiomas
 
